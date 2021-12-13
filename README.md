@@ -1,4 +1,11 @@
-# todo-list
-Pet Project from course to EasyCode. 
-Link:  http://todo.ovsiannykov.space/
-My Telegram: @mikie_mac
+# Todo List
+
+## Pet Project from course to EasyCode
+
+## Link  
+
+http://todo.ovsiannykov.space/
+
+## Telegram
+
+@mikie_mac
